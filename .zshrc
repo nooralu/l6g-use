@@ -25,7 +25,7 @@ alias gc="git commit -m"
 alias gp="git push"
 
 # deno
-export DENO_INSTALL="/home/l6g/.deno"
+export DENO_INSTALL="$HOME/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
 
 # nvm
